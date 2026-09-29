@@ -1,0 +1,6 @@
+{
+  "name": "UstaTop — Ishonchli ustani tez toping",
+  "description": "O‘zbekistonda santexnik, elektrik, quruvchi va boshqa mutaxassislarni toping. Ustalarni solishtiring va ular bilan bevosita bog‘laning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
